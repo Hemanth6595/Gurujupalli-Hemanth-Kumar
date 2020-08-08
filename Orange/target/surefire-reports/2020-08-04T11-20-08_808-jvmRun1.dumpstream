@@ -1,0 +1,3 @@
+# Created at 2020-08-04T11:20:09.675
+class Com.TestScripts.LoginTest cannot be cast to class org.testng.ITestNGListener (Com.TestScripts.LoginTest and org.testng.ITestNGListener are in unnamed module of loader 'app')
+
