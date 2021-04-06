@@ -1,3 +1,0 @@
-# Created at 2020-08-04T10:53:48.434
-Class org.apache.maven.surefire.report.PojoStackTraceWriter does not implement the requested interface org.apache.maven.surefire.report.StackTraceWriter
-
